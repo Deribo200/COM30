@@ -1,0 +1,5 @@
+C:\Users\pc\Desktop\Start\Strings\Manipulation\obj\Debug\net6.0\Manipulation.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Start\Strings\Manipulation\obj\Debug\net6.0\Manipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Start\Strings\Manipulation\obj\Debug\net6.0\Manipulation.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Start\Strings\Manipulation\obj\Debug\net6.0\Manipulation.AssemblyInfo.cs
+C:\Users\pc\Desktop\Start\Strings\Manipulation\obj\Debug\net6.0\Manipulation.csproj.CoreCompileInputs.cache

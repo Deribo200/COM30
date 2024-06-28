@@ -1,0 +1,5 @@
+C:\Users\pc\Desktop\Start\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Start\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Start\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Start\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.AssemblyInfo.cs
+C:\Users\pc\Desktop\Start\Regex\Timeouts\obj\Debug\net6.0\RegexTimeouts.csproj.CoreCompileInputs.cache
